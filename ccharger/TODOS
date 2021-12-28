@@ -1,0 +1,16 @@
+Relativamente a programaçao:
+	- Makefile :
+		> fazer a makefile, dirs, links e a compilacao
+	
+	- criar uma file para inciarmos a libusb (
+definir baud rates etc)
+	
+	- criar uma file para iniciarmos o lcd e ver a sua respetiva
+		programaçao (se calhar vamos usar um simples voltimetro
+				e amperimetro com display de segmentos)
+	- criar uma file que vai ler e controlar o nivel da bateria
+	- criar uma file que vai ligar e desligar o interruptor eletronico
+		(rele de estado solido)
+	- 
+
+
